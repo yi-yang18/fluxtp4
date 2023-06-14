@@ -1,0 +1,13 @@
+weave-gitops/
+  weave-gitops-chart/
+    Chart.yaml
+    values.yaml
+    charts/
+    templates/
+      deployment.yaml
+      service.yaml
+      configmap.yaml
+  weave-gitops-helmrelease.yaml
+  weave-gitops-source.yaml
+  weave-gitops-values.yaml
+
